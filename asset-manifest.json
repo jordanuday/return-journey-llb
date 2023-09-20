@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/return-journey-llb/static/css/main.6ca13a9c.css",
+    "main.js": "/return-journey-llb/static/js/main.3d5172a7.js",
+    "static/js/787.9b06cee2.chunk.js": "/return-journey-llb/static/js/787.9b06cee2.chunk.js",
+    "index.html": "/return-journey-llb/index.html",
+    "main.6ca13a9c.css.map": "/return-journey-llb/static/css/main.6ca13a9c.css.map",
+    "main.3d5172a7.js.map": "/return-journey-llb/static/js/main.3d5172a7.js.map",
+    "787.9b06cee2.chunk.js.map": "/return-journey-llb/static/js/787.9b06cee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ca13a9c.css",
+    "static/js/main.3d5172a7.js"
+  ]
+}
